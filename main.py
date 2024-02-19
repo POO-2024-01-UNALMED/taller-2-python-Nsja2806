@@ -17,6 +17,7 @@ class Auto:
         self.marca=marca
         self.motor=motor
         self.registro=registro
+        self.asientos=asientos
         
 
     def cantidadAsientos(self):
